@@ -389,8 +389,6 @@ This does not prove neglect or underinvestment. However, it highlights areas whe
 
 ### Finding 8: Disease burden rank and innovation rank are not always aligned
 
-![Burden vs Innovation Scatter](assets/notebook_charts/burden_vs_innovation_scatter.png)
-
 The comparison between disease burden rank and innovation rank shows that innovation activity does not perfectly follow disease burden.
 
 Key observation:
@@ -408,8 +406,6 @@ Commercial potential, scientific feasibility, clinical risk, funding dynamics, a
 ---
 
 ### Finding 9: Disease burden is regionally concentrated
-
-![Regional Disease Burden](assets/notebook_charts/regional_disease_burden.png)
 
 Disease burden was not evenly distributed across regions.
 
