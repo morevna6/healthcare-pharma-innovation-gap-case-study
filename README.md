@@ -434,7 +434,7 @@ Each dashboard is designed to answer a different layer of the case study.
 
 [View dashboard on Tableau Public](https://public.tableau.com/app/profile/g.n.aydo.an/viz/GlobalHealthcarePharmaMarketOverview20102025/ExecutiveOverview)
 
-![Global Healthcare & Pharma Market Overview Dashboard](assets/dashboard_screenshots/executive_overview.png)
+![Global Healthcare & Pharma Market Overview Dashboard](assets/dashboards/executive_overview.png)
 
 #### What this dashboard shows
 
@@ -477,7 +477,7 @@ This dashboard answers the first layer of the case study:
 
 [View dashboard on Tableau Public](https://public.tableau.com/app/profile/g.n.aydo.an/viz/CompanyPerformanceRDProductivity20102025/CompanyPerformance)
 
-![Company Performance & R&D Productivity Dashboard](assets/dashboard_screenshots/company_performance.png)
+![Company Performance & R&D Productivity Dashboard](assets/dashboards/company_performance.png)
 
 #### What this dashboard shows
 
@@ -522,7 +522,7 @@ This dashboard answers the company-level layer of the case study:
 
 [View dashboard on Tableau Public](https://public.tableau.com/app/profile/g.n.aydo.an/viz/PharmaceuticalInnovationGapbyTherapyArea/InnovationGap)
 
-![Pharmaceutical Innovation Gap by Therapy Area Dashboard](assets/dashboard_screenshots/innovation_gap.png)
+![Pharmaceutical Innovation Gap by Therapy Area Dashboard](assets/dashboards/innovation_gap.png)
 
 #### What this dashboard shows
 
@@ -566,7 +566,7 @@ This dashboard directly answers the central case study question:
 
 [View dashboard on Tableau Public](https://public.tableau.com/app/profile/g.n.aydo.an/viz/FundingGlobalDiseaseBurden/FundingBurden)
 
-![Funding & Global Disease Burden Dashboard](assets/dashboard_screenshots/funding_and_burden.png)
+![Funding & Global Disease Burden Dashboard](assets/dashboards/funding_and_burden.png)
 
 #### What this dashboard shows
 
