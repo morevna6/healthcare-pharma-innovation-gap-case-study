@@ -475,7 +475,7 @@ This dashboard answers the first layer of the case study:
 
 ### Dashboard 2: Company Performance & R&D Productivity (2010–2025)
 
-[View dashboard on Tableau Public](assets/dashboards/Company Performance.png)
+[View dashboard on Tableau Public](https://public.tableau.com/app/profile/g.n.aydo.an/viz/CompanyPerformanceRDProductivity20102025/CompanyPerformance)
 
 ![Company Performance & R&D Productivity Dashboard](assets/dashboard_screenshots/company_performance.png)
 
