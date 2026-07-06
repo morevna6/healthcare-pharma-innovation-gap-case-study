@@ -3,6 +3,7 @@
 A healthcare analytics case study investigating whether pharmaceutical innovation activity aligns with global disease burden.
 
 **Tableau Public Profile:** [Günışığı Aydoğan Tableau Public](https://public.tableau.com/app/profile/g.n.aydo.an/vizzes)  
+**Dataset Source:** [Global Healthcare and Pharma 2010–2026 on Kaggle](https://www.kaggle.com/datasets/sergionefedov/global-healthcare-and-pharma-2010-2026)
 **Project Type:** Healthcare Analytics Case Study  
 **Tools:** Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Tableau  
 **Main Analysis Period:** 2010–2025  
@@ -89,7 +90,9 @@ The case study is guided by the following analytical questions:
 
 ## 4. Dataset & Scope
 
-The project uses five datasets covering pharma company financials, drug approvals, clinical trials, biotech funding, and disease burden.
+The project uses the **Global Healthcare and Pharma 2010–2026** dataset published on Kaggle. The dataset covers pharma company financials, drug approvals, clinical trials, biotech funding, and disease burden.
+
+**Dataset source:** [Global Healthcare and Pharma 2010–2026 on Kaggle](https://www.kaggle.com/datasets/sergionefedov/global-healthcare-and-pharma-2010-2026)
 
 | Dataset | Description |
 |---|---|
@@ -107,6 +110,11 @@ For the project framing and analytical intent, see:
 
 [`docs/project_manifesto.md`](docs/project_manifesto.md)
 
+### Dataset Attribution and Usage Note
+
+This project uses a public Kaggle dataset created for healthcare and pharma analytics. According to the dataset documentation, it combines public anchor sources with modeled components. Therefore, the analysis is framed as exploratory, directional, and portfolio-oriented rather than as a source of official financial, regulatory, or clinical conclusions.
+
+The dataset documentation notes that some records are based on public sources, while some bulk records and estimates are modeled or synthetic. This is reflected in the project limitations and in the interpretation of metrics such as estimated commercial output, clinical trial stock impact, and innovation gap score.
 ---
 
 ## 5. Methodology
