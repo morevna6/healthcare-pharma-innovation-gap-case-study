@@ -15,6 +15,16 @@ The main analysis period is **2010–2025**. Records from 2026 were excluded fro
 
 ---
 
+## Dataset Source
+
+The datasets used in this project come from the Kaggle dataset:
+
+[Global Healthcare and Pharma 2010–2026](https://www.kaggle.com/datasets/sergionefedov/global-healthcare-and-pharma-2010-2026)
+
+The dataset includes pharma company financials, drug approvals, clinical trials, biotech funding, and disease burden data. It combines public anchor sources with modeled or synthetic components, so the analysis should be interpreted as exploratory and portfolio-oriented.
+
+---
+
 # 1. pharma_companies_financials.csv
 
 ## Description
