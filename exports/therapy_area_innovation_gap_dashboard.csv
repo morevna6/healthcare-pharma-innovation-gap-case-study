@@ -1,0 +1,10 @@
+therapy_area,approval_count,estimated_commercial_output_usd_bn,avg_peak_sales_usd_bn,blockbuster_count,mega_blockbuster_count,trial_count,successful_trials,failed_trials,trial_success_rate_pct,avg_stock_impact_pct,mapped_disease_count,avg_dalys_millions,total_dalys_millions,avg_global_dalys_millions,disease_burden_rank,approval_rank,commercial_output_rank,trial_activity_rank,innovation_rank,innovation_gap_score
+cardiovascular,49,58.48,1.19,11,3,67.0,54.0,9.0,80.6,3.18,2,26.35,8433.05,263.8,1.0,5.0,6.0,2.0,4.33,3.33
+respiratory,20,15.62,0.78,3,1,23.0,18.0,4.0,78.26,5.42,1,10.24,1639.0,102.19,4.0,7.0,7.0,7.0,7.0,3.0
+psychiatry,20,9.68,0.48,2,0,17.0,7.0,10.0,41.18,-3.72,2,10.21,3268.07,101.28,5.0,7.0,8.0,8.0,7.67,2.67
+neurology,94,90.5,0.96,22,4,62.0,17.0,38.0,27.42,-7.3,2,14.13,4523.09,141.09,3.0,2.0,4.0,3.0,3.0,0.0
+gastrointestinal,9,3.93,0.44,1,0,23.0,15.0,5.0,65.22,2.7,3,5.05,2424.76,50.44,9.0,8.0,9.0,7.0,8.0,-1.0
+oncology,272,227.09,0.83,49,10,179.0,62.0,82.0,34.64,-4.85,1,24.65,3944.53,246.91,2.0,1.0,1.0,1.0,1.0,-1.0
+metabolic,38,90.15,2.37,11,5,47.0,29.0,5.0,61.7,3.21,1,7.56,1210.0,75.38,7.0,6.0,5.0,5.0,5.33,-1.67
+rare_disease,68,93.56,1.38,19,5,45.0,24.0,17.0,53.33,-0.51,2,9.49,3036.43,92.06,6.0,3.0,3.0,6.0,4.0,-2.0
+infectious,57,149.48,2.62,16,7,58.0,43.0,5.0,74.14,5.03,5,6.69,4747.93,60.81,8.0,4.0,2.0,4.0,3.33,-4.67

@@ -1,0 +1,31 @@
+company_name,ticker,segment,total_revenue_usd_bn,total_rd_spend_usd_bn,avg_operating_margin_pct,avg_pipeline_size,rd_intensity_pct,total_approvals,blockbuster_count,mega_blockbuster_count,estimated_commercial_output_usd_bn,avg_peak_sales_usd_bn,approval_productivity_per_bn_rd,commercial_output_per_bn_rd,blockbuster_rate_pct
+Johnson & Johnson,JNJ,diversified_pharma,1257.64,150.92,21.38,79.44,12.0,28.0,4.0,0.0,18.62,0.66,0.19,0.12,14.29
+Pfizer,PFE,big_pharma,959.64,172.71,27.46,109.81,18.0,20.0,4.0,1.0,27.67,1.38,0.12,0.16,20.0
+Roche,ROG,big_pharma,915.3,164.75,27.28,108.56,18.0,23.0,7.0,3.0,39.92,1.74,0.14,0.24,30.43
+Novartis,NVS,big_pharma,804.72,144.84,27.01,104.56,18.0,27.0,5.0,1.0,18.3,0.68,0.19,0.13,18.52
+Merck,MRK,big_pharma,781.19,140.6,28.11,103.19,18.0,26.0,9.0,2.0,55.47,2.13,0.18,0.39,34.62
+Bayer,BAYN,diversified_pharma,779.43,93.55,15.68,68.88,12.0,19.0,1.0,0.0,7.41,0.39,0.2,0.08,5.26
+Sanofi,SAN,big_pharma,596.13,107.29,28.19,95.56,18.0,20.0,5.0,1.0,15.82,0.79,0.19,0.15,25.0
+AstraZeneca,AZN,big_pharma,534.71,96.25,27.62,91.56,18.0,26.0,5.0,0.0,17.96,0.69,0.27,0.19,19.23
+Abbott Laboratories,ABT,diversified_pharma,519.25,62.32,21.68,60.62,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+AbbVie,ABBV,big_pharma,514.18,92.55,28.82,95.85,18.0,22.0,4.0,2.0,22.16,1.01,0.24,0.24,18.18
+Bristol-Myers Squibb,BMY,big_pharma,486.66,87.62,28.02,88.19,18.0,25.0,6.0,1.0,30.55,1.22,0.29,0.35,24.0
+GSK,GSK,big_pharma,464.55,83.6,27.09,88.56,18.0,23.0,6.0,2.0,31.38,1.36,0.28,0.38,26.09
+Eli Lilly,LLY,big_pharma,440.87,79.36,29.35,86.19,18.0,5.0,5.0,3.0,43.5,8.7,0.06,0.55,100.0
+Medtronic,MDT,medical_devices,439.1,35.14,20.16,13.88,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gilead Sciences,GILD,biotech,385.16,96.31,31.61,22.62,25.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Amgen,AMGN,biotech,379.72,94.94,32.29,22.75,25.0,30.0,7.0,2.0,29.66,0.99,0.32,0.31,23.33
+Takeda,4502,big_pharma,356.67,64.18,28.88,81.31,17.99,18.0,3.0,2.0,21.96,1.22,0.28,0.34,16.67
+Boehringer Ingelheim,BI,big_pharma,344.51,62.01,27.98,80.62,18.0,1.0,1.0,0.0,4.5,4.5,0.02,0.07,100.0
+Novo Nordisk,NVO,big_pharma,344.23,61.98,30.77,79.25,18.01,30.0,4.0,3.0,48.96,1.63,0.48,0.79,13.33
+Danaher,DHR,diagnostics,336.82,33.69,20.84,8.38,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Teva,TEVA,generics,275.88,16.55,10.11,25.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Stryker,SYK,medical_devices,220.87,17.66,20.91,11.19,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Biogen,BIIB,biotech,163.34,40.84,31.11,17.31,25.0,2.0,1.0,0.0,2.15,1.08,0.05,0.05,50.0
+Daiichi Sankyo,4568,big_pharma,159.46,28.69,27.35,63.88,17.99,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Regeneron,REGN,biotech,111.85,27.95,32.08,14.75,24.99,24.0,8.0,2.0,34.67,1.44,0.86,1.24,33.33
+Vertex Pharmaceuticals,VRTX,biotech,72.03,18.02,31.34,13.21,25.02,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sun Pharma,SUNPHARMA,generics,68.79,4.13,13.12,15.94,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Moderna,MRNA,biotech,54.54,13.63,20.58,12.62,24.99,1.0,1.0,1.0,18.5,18.5,0.07,1.36,100.0
+BioNTech,BNTX,biotech,45.58,11.39,19.88,11.88,24.99,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hengrui Medicine,600276,big_pharma,36.12,6.5,28.09,39.5,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

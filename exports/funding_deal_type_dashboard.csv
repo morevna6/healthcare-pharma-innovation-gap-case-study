@@ -1,0 +1,7 @@
+deal_type,deal_count,total_funding_usd_bn,avg_deal_value_usd_bn,megadeal_count
+M&A,192,1604.64,8.36,47
+VC,465,105.58,0.23,0
+IPO,134,71.05,0.53,0
+Series_B,231,56.82,0.25,0
+Series_C,118,29.52,0.25,0
+Crossover,61,13.45,0.22,0
