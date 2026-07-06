@@ -471,11 +471,11 @@ This dashboard answers the first layer of the case study:
 
 **How did the overall pharma market, R&D activity, funding environment, and disease burden evolve over time?**
 
----
+---![Approvals by Therapy Area](assets/notebook_charts/approvals_by_therapy_area.png)
 
 ### Dashboard 2: Company Performance & R&D Productivity (2010–2025)
 
-[View dashboard on Tableau Public](https://public.tableau.com/app/profile/g.n.aydo.an/viz/CompanyPerformanceRDProductivity20102025/CompanyPerformance)
+[View dashboard on Tableau Public](assets/dashboards/Company Performance.png)
 
 ![Company Performance & R&D Productivity Dashboard](assets/dashboard_screenshots/company_performance.png)
 
