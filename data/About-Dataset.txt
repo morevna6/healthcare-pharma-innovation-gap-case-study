@@ -1,0 +1,185 @@
+Global Healthcare & Pharma Dataset (2010–2026)
+
+This folder contains the raw datasets used in the Global Healthcare & Pharma Innovation Gap Case Study.
+
+The dataset covers the global healthcare and pharmaceutical industry across company financials, drug approvals, clinical trials, biotech funding, and disease burden. The analysis in this project focuses mainly on the 2010–2025 period, while 2026 is treated as a partial year and excluded from the main trend analysis.
+
+Dataset Files
+
+1. pharma_companies_financials.csv
+
+Company-level financial dataset covering 30 pharmaceutical, biotech, generics, medical device, and diagnostics companies.
+
+Main fields include:
+- year
+- company_name
+- ticker
+- country_iso3
+- segment
+- revenue_usd_bn
+- operating_margin_pct
+- operating_income_usd_bn
+- rd_spend_usd_bn
+- pipeline_size_est
+
+This dataset was used to analyze:
+- Pharma revenue growth
+- R&D spending trends
+- R&D intensity
+- Company-level performance
+- Segment-level R&D intensity
+- Commercial and innovation productivity indicators
+
+
+2. drug_approvals.csv
+
+Drug approval dataset covering approved drugs across therapy areas and sponsors.
+
+Main fields include:
+- approval_id
+- approval_date
+- year
+- drug_name
+- sponsor_company
+- drug_type
+- therapy_area
+- peak_sales_usd_bn_est
+- is_blockbuster
+- is_mega_blockbuster
+- description
+- is_real_headline
+
+This dataset was used to analyze:
+- Drug approvals over time
+- Therapy area concentration
+- Sponsor company approval activity
+- Blockbuster and mega-blockbuster share
+- Estimated commercial output by therapy area
+
+
+3. clinical_trials.csv
+
+Clinical trial dataset covering Phase 2 and Phase 3 trial outcomes.
+
+Main fields include:
+- trial_id
+- completion_date
+- year
+- sponsor
+- therapy_area
+- phase
+- enrollment_n
+- duration_months
+- outcome
+- is_success
+- is_failure
+- estimated_stock_impact_pct
+
+This dataset was used to analyze:
+- Clinical trial activity over time
+- Trial outcomes by phase
+- Trial success and failure rates
+- Therapy-area clinical risk
+- Estimated stock impact by outcome
+
+
+4. biotech_funding.csv
+
+Biotech funding and deal dataset covering M&A, IPO, VC, licensing, partnership, and other deal types.
+
+Main fields include:
+- deal_id
+- date
+- year
+- deal_type
+- acquirer_or_investors
+- target_or_company
+- value_usd_bn
+- description
+- is_megadeal
+- is_real_headline
+
+This dataset was used to analyze:
+- Biotech funding trends
+- Deal type concentration
+- Average deal size
+- Megadeal impact
+- Funding concentration patterns
+
+
+5. disease_burden.csv
+
+Disease burden dataset covering DALYs across diseases, years, and regions.
+
+Main fields include:
+- year
+- region
+- disease
+- dalys_millions
+- global_dalys_millions
+
+This dataset was used to analyze:
+- Disease burden by disease
+- Disease burden by region
+- Global DALY trends
+- Therapy-area disease burden mapping
+- Innovation gap analysis
+
+
+Project Analysis Scope
+
+The main analysis period is 2010–2025.
+
+Although the dataset includes 2026 records, 2026 was excluded from the main trend and KPI analysis because it appears to be a partial year. The project keeps 2026 in the raw data folder for transparency but uses filtered 2010–2025 datasets in the main analysis notebooks.
+
+Main Case Study Question
+
+Are pharmaceutical innovation activities aligned with global disease burden?
+
+The project investigates this question by comparing:
+- Pharma revenue and R&D spending
+- Drug approvals
+- Clinical trial activity and success rates
+- Estimated commercial output
+- Biotech funding concentration
+- Disease burden by therapy area and region
+
+
+Source Notes
+
+The dataset description states that anchor data is based on public materials such as:
+- FDA drug approval databases
+- SEC 10-K filings and company reports
+- ClinicalTrials.gov public registry
+- IHME Global Burden of Disease sources
+- WHO health statistics
+- Public biotech funding and deal reports
+
+The dataset also includes modeled and synthetic components, including:
+- Year-by-year revenue interpolation between financial anchor points
+- Modeled operating margins
+- Bulk drug approval records supplementing real headline approvals
+- Synthetic clinical trial outcomes calibrated to industry-level success rates
+- Regional DALY estimates derived from global disease burden anchors
+- Bulk biotech deal records supplementing real headline transactions
+
+
+Important Limitations
+
+This dataset should be treated as a case study dataset rather than a fully audited real-world research database.
+
+Important limitations include:
+- Some financial values are interpolated or modeled.
+- Some drug approval records are synthetic bulk records.
+- Clinical trial outcomes are synthetic but calibrated to realistic industry success rates.
+- Disease burden values are anchored to public disease burden sources but include projected values.
+- Biotech funding data focuses on major deals and does not represent the full private funding universe.
+- 2026 is a partial year and is excluded from the main analysis period.
+- Estimated peak sales are projections, not realized revenue.
+
+
+License
+
+The original dataset description indicates a CC0 / Public Domain license.
+
+Dataset attribution should still be included when publishing or sharing this project.
