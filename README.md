@@ -713,11 +713,11 @@ healthcare-pharma-innovation-gap-case-study/
 │   └── regional_disease_burden_dashboard.csv
 │
 ├── assets/
-│   ├── dashboard_screenshots/
-│   │   ├── executive_overview.png
-│   │   ├── company_performance.png
-│   │   ├── innovation_gap.png
-│   │   └── funding_and_burden.png
+│   ├── dashboards/
+│   │   ├── ExecutiveOverview.png
+│   │   ├── CompanyPerformance.png
+│   │   ├── InnovationGap.png
+│   │   └── Funding&Burden.png
 │   │
 │   └── notebook_charts/
 │       ├── revenue_rd_trends.png
@@ -726,14 +726,14 @@ healthcare-pharma-innovation-gap-case-study/
 │       ├── trial_success_by_therapy_area.png
 │       ├── biotech_funding_by_year.png
 │       ├── megadeal_funding_share.png
-│       ├── innovation_gap_score.png
-│       ├── burden_vs_innovation_scatter.png
-│       └── regional_disease_burden.png
+│       └──  innovation_gap_score.png
 │
 ├── docs/
 │   ├── project_manifesto.md
 │   └── data_dictionary.md
 │
 └── tableau/
-    ├── healthcare_pharma_dashboard.twbx
-    └── dashboard_notes.md
+    ├── Company Performance & R&D Productivity (2010–2025).twbx.twbx
+    ├── Funding & Global Disease Burden.twbx
+    ├── Global Healthcare & Pharma Market Overview (2010–2025).twbx
+    └── Pharmaceutical Innovation Gap by Therapy Area.twbx
